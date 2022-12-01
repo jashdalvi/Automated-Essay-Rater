@@ -1,6 +1,6 @@
 # Rating student essays through continuous soft prompts and adversarial learning
 
-## This repo contains the solution for the [Feedback prize - English language learning](https://www.kaggle.com/competitions/feedback-prize-english-language-learning) competition. This approach achieved a silver medal(28th out of 2740 participants).
+## This repo contains the solution for the [Feedback prize - English language learning](https://www.kaggle.com/competitions/feedback-prize-english-language-learning) competition. This approach achieved a silver medal(25th out of 2654 participants).
 
 ### Competition
 
